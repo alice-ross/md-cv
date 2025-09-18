@@ -1,13 +1,15 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alice Ross
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alice Ross
+PhD student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://informatics.ed.ac.uk/ukri-cdt-in-natural-language-processing">CDT in Natural Language Processing</a>, Cohort 2023
+    PhD Fellow, <a href="https://www.technomoralfutures.uk/">Centre for Technomoral Futures</a>
+    Member, <a href="https://www.cstr.ed.ac.uk/">Centre for Speech Technology Research</a>
+    University of Edinburgh
 </div>
 
 
