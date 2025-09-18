@@ -7,10 +7,17 @@ PhD student
 
 <div id="webaddress">
 <a href="https://informatics.ed.ac.uk/ukri-cdt-in-natural-language-processing">CDT in Natural Language Processing</a>, Cohort 2023
-    PhD Fellow, <a href="https://www.technomoralfutures.uk/">Centre for Technomoral Futures</a>
-    Member, <a href="https://www.cstr.ed.ac.uk/">Centre for Speech Technology Research</a>
-    University of Edinburgh
 </div>
+
+<div id="webaddress">
+PhD Fellow, <a href="https://www.technomoralfutures.uk/">Centre for Technomoral Futures</a>
+</div>
+
+<div id="webaddress">
+Member, <a href="https://www.cstr.ed.ac.uk/">Centre for Speech Technology Research</a>
+</div>
+University of Edinburgh
+
 
 
 ## Currently
